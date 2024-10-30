@@ -1,0 +1,1821 @@
+# Copyright (C) 2024 Interactive Globes
+# This file is distributed under the same license as the Interactive Globes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Interactive Globes 1.3.0\n"
+"Report-Msgid-Bugs-To: https://saltus.dev/\n"
+"POT-Creation-Date: 2024-09-18 22:17:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Saltus <web@saltus.dev>\n"
+"Language-Team: Saltus <web@saltus.dev>\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: src/Features/ClickActions/DisplayContentAbove.php:21
+#: src/Features/ClickActions/DisplayContentBelow.php:21
+#: src/Features/ClickActions/DisplayContentLeft.php:21
+#: src/Features/ClickActions/DisplayContentRight.php:21
+msgid "Display content below"
+msgstr ""
+
+#: src/Features/ClickActions/DisplayContentAbove.php:26
+#: src/Features/ClickActions/DisplayContentBelow.php:26
+#: src/Features/ClickActions/DisplayContentBelowScroll.php:18
+#: src/Features/ClickActions/DisplayContentLeft.php:26
+#: src/Features/ClickActions/DisplayContentRight.php:26
+msgid "Display content below & scroll"
+msgstr ""
+
+#: src/Features/ClickActions/DisplayContentAbove.php:31
+#: src/Features/ClickActions/DisplayContentBelow.php:31
+#: src/Features/ClickActions/DisplayContentLeft.php:31
+#: src/Features/ClickActions/DisplayContentRight.php:31
+msgid "Display content above"
+msgstr ""
+
+#: src/Features/ClickActions/DisplayContentAbove.php:36
+#: src/Features/ClickActions/DisplayContentBelow.php:36
+#: src/Features/ClickActions/DisplayContentLeft.php:36
+#: src/Features/ClickActions/DisplayContentRight.php:36
+msgid "Display content right"
+msgstr ""
+
+#: src/Features/ClickActions/DisplayContentAbove.php:41
+#: src/Features/ClickActions/DisplayContentBelow.php:41
+#: src/Features/ClickActions/DisplayContentLeft.php:41
+#: src/Features/ClickActions/DisplayContentRight.php:41
+msgid "Display content left"
+msgstr ""
+
+#: src/Features/ClickActions/DisplayContentAbove.php:46
+#: src/Features/ClickActions/DisplayContentBelow.php:46
+#: src/Features/ClickActions/DisplayContentLeft.php:46
+#: src/Features/ClickActions/DisplayContentRight.php:46
+msgid "Display content"
+msgstr ""
+
+#: src/Features/ClickActions/DisplayContentLightbox.php:16
+msgid "Display content in a Lightbox"
+msgstr ""
+
+#: src/Features/ClickActions/DisplayIframeLightbox.php:16
+msgid "Display URL in a Lightbox (iframe)"
+msgstr ""
+
+#: src/Features/CptManager/CptManagerCore.php:67
+msgid "Add title"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:22
+#: src/Features/Point/PointProMeta.php:22 src/models/globe-region.php:17
+msgid "Default"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:29
+#: src/models/globe-dotlabel.php:122 src/models/globe-line.php:132
+#: src/models/globe-point.php:108 src/models/globe-region.php:173
+msgid "Details"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:33
+#: src/Features/Point/PointProMeta.php:28 src/models/globe-line.php:198
+#: src/models/globe-region.php:203
+msgid "Customize"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:39
+#: src/Features/Point/PointProMeta.php:33 src/models/globe-line.php:203
+#: src/models/globe-region.php:208
+msgid "Use Custom Options"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:40
+#: src/Features/Point/PointProMeta.php:34 src/models/globe-line.php:204
+#: src/models/globe-region.php:209
+msgid "Define custom colors and actions."
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:45
+#: src/Features/Point/PointProMeta.php:39
+#: src/Services/Model/Base/MetaDotLabel.php:105
+#: src/Services/Model/Base/MetaPoint.php:104
+#: src/Services/Model/Pro/MetaRegions.php:70 src/models/globe-pro.php:143
+#: src/models/globe-pro.php:189 src/models/globe-region.php:214
+msgid "Click Action"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:55
+#: src/Features/Point/PointProMeta.php:56 src/Services/Model/Base/Meta.php:130
+#: src/Services/Model/Base/MetaDotLabel.php:115
+#: src/Services/Model/Base/MetaPoint.php:119
+#: src/Services/Model/Pro/MetaLines.php:75 src/models/globe-line.php:255
+#: src/models/globe-pro.php:160 src/models/globe-pro.php:199
+msgid "Altitude"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:62
+#: src/Services/Model/Base/MetaDotLabel.php:121 src/models/globe-pro.php:206
+msgid "Label Size"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:67
+#: src/Features/Point/PointProMeta.php:61
+#: src/Services/Model/Base/MetaDotLabel.php:125
+#: src/Services/Model/Base/MetaPoint.php:123
+#: src/Services/Model/Pro/MetaRegions.php:77 src/models/globe-pro.php:165
+#: src/models/globe-pro.php:211 src/models/globe-region.php:222
+msgid "Fill Color"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:73
+#: src/Features/Point/PointProMeta.php:67
+#: src/Services/Model/Base/MetaDotLabel.php:130
+#: src/Services/Model/Base/MetaPoint.php:128
+#: src/Services/Model/Pro/MetaRegions.php:82 src/models/globe-pro.php:171
+#: src/models/globe-pro.php:217 src/models/globe-region.php:228
+msgid "Hover Color"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:78
+#: src/Services/Model/Base/MetaDotLabel.php:134 src/models/globe-pro.php:222
+msgid "Display Dot"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:79
+#: src/Services/Model/Base/MetaDotLabel.php:135 src/models/globe-pro.php:223
+msgid ""
+"Display a dot marker next to the text indicating the exact coordinates of "
+"the label."
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:88
+#: src/Services/Model/Base/MetaDotLabel.php:143 src/models/globe-pro.php:232
+msgid "Dot Radius"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:95
+#: src/Services/Model/Base/MetaDotLabel.php:151 src/models/globe-pro.php:239
+msgid "Bottom"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:96
+#: src/Services/Model/Base/MetaDotLabel.php:152 src/models/globe-pro.php:240
+msgid "Top"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:97
+#: src/Services/Model/Base/MetaDotLabel.php:153 src/models/globe-pro.php:241
+msgid "Right"
+msgstr ""
+
+#: src/Features/DotLabel/DotLabelProMeta.php:99
+#: src/Services/Model/Base/MetaDotLabel.php:155 src/models/globe-pro.php:243
+msgid "Dot Orientation"
+msgstr ""
+
+#: src/Features/Meta/MetaCore.php:169
+msgid "Add new"
+msgstr ""
+
+#: src/Features/Meta/MetaCore.php:321
+#: src/Services/Model/Base/MetaDotLabel.php:44
+#: src/Services/Model/Base/MetaPoint.php:44
+msgid "Title"
+msgstr ""
+
+#: src/Features/Meta/MetaCore.php:322
+msgid "Actions"
+msgstr ""
+
+#: src/Features/Point/PointProMeta.php:49
+#: src/Services/Model/Base/MetaPoint.php:113 src/models/globe-pro.php:153
+msgid "Radius"
+msgstr ""
+
+#: src/Features/Sales/UpsellPage.php:48 src/Features/Sales/UpsellPage.php:49
+msgid "Try Pro Version"
+msgstr ""
+
+#: src/Plugin/Assets.php:218
+msgid "New center saved"
+msgstr ""
+
+#: src/Plugin/Assets.php:219
+msgid "Set initial center"
+msgstr ""
+
+#: src/Plugin/Freemius.php:89 src/Plugin/Freemius.php:100
+msgid "You do not have permission to edit this globe."
+msgstr ""
+
+#: src/Services/Model/Base/Features.php:12 src/models/globe-pro.php:22
+msgid "Download Globe Export File"
+msgstr ""
+
+#: src/Services/Model/Base/Features.php:21 src/models/globe-pro.php:31
+msgid "Shortcode"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:17 src/Services/Model/Base/Labels.php:19
+msgid "Globes"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:18 src/Services/Model/Base/Labels.php:20
+#: src/Services/Model/Base/Meta.php:83
+msgid "Globe"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:21 src/models/globe-dotlabel.php:48
+#: src/models/globe-line.php:51 src/models/globe-point.php:33
+#: src/models/globe-region.php:99
+msgid "Create New"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:22
+msgid "Create New Globe"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:23
+msgid "Edit Globe"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:24
+msgid "New Globe"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:25
+msgid "View Globe"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:26
+msgid "View Globes"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:27
+msgid "Search Globes"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:28
+msgid "No Globes found."
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:29
+msgid "No Globes found in Trash."
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:30
+msgid "Parent Globes:"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:31
+msgid "All Globes"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:32
+msgid "Globe Archives"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:33
+msgid "Globe Attributes"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:34
+msgid "Insert into Globe"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:35
+msgid "Uploaded to this Globe"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:36
+msgid "Filter Globes list"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:37
+msgid "Globes list navigation"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:38
+msgid "Globes list"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:39
+msgid "Globe Cover Image"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:40
+msgid "Set Globe Cover Image"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:41
+msgid "Remove Globe Cover"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:42
+msgid "Use as Globe Cover"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:46
+msgid "Globe information updated."
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:47
+msgid "Globe info updated"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:48 src/models/globe-dotlabel.php:75
+#: src/models/globe-line.php:82 src/models/globe-point.php:60
+#: src/models/globe-region.php:126
+msgid "Custom field updated"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:49 src/models/globe-dotlabel.php:76
+#: src/models/globe-line.php:83 src/models/globe-point.php:61
+#: src/models/globe-region.php:127
+msgid "Custom field deleted"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:50
+msgid "Globe content restored from revision"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:51
+msgid "Globe Published"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:52
+msgid "Globe information saved."
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:53
+msgid "Globe submitted. <a href=\"{preview_url}\" target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:54
+msgid ""
+"Globe scheduled for {date}. <a href=\"{preview_url}\" "
+"target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:55
+msgid "Globe draft updated. <a href=\"{preview_url}\" target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:58
+msgid "Globe updated. Yay!"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:59
+msgid "%s Globes updated. Yay!"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:60
+msgid "Globe not updated, somebody is editing it"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:61
+msgid "%s Globes not updated, somebody is editing them"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:62
+msgid "Globe permanetly deleted. Fahrenheit 451 team was here?"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:63
+msgid "%s Globes permanently deleted. Why? :("
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:64
+msgid "Globe moved to the trash. I'm sad :("
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:65
+msgid "%s Globes moved to the trash. Why? :("
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:66
+msgid "Globe recovered from trash. Well done!"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:67
+msgid "%s Globes saved from the enemies!"
+msgstr ""
+
+#: src/Services/Model/Base/Labels.php:71
+msgid "Enter Globe name here"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:26
+msgid "Preview"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:36
+msgid "Changes detected. Save your globe to update the preview."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:78
+msgid "Globe Settings"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:106
+msgid "Show Graticules"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:107
+msgid "Show a graticule grid demarking latitude and longitude lines."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:114
+#. translators: legend refers to a caption or visual element explaining colours
+#. on map
+msgid "Athmosphere"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:115
+msgid "Show a bright halo surrounding the globe, representing the atmosphere."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:119
+msgid "Enabled"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:124
+msgid "Color"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:135
+msgid ""
+"Max altitude of the atmosphere, in terms of globe radius units.<br>The size "
+"of the athmosphere added outside the globe in terms of percentage of the "
+"globe size."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:144
+msgid "Controls the initial globe scale"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:145
+msgid "Initial altitude/scale"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:149
+msgid "Center coordinates"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:150
+msgid "Center of the globe when initially loaded."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:152
+#: src/Services/Model/Base/MetaDotLabel.php:30
+#: src/Services/Model/Base/MetaPoint.php:30
+#. translators: %s will be a link to an external website
+msgid ""
+"You can get the latitude and longitude for a specific location clicking it "
+"on the globe or from sites like %s."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:154
+#: src/Services/Model/Base/MetaDotLabel.php:32
+#: src/Services/Model/Base/MetaPoint.php:32
+msgid ""
+"Correct format: Latitude: 41.1579, Longitude: -8.6291<br> Wrong format: "
+"Latitude: <strike>41.1579° N</strike> Longitude: <strike>8.6291° W</strike>"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:158
+#: src/Services/Model/Base/MetaDotLabel.php:55
+#: src/Services/Model/Base/MetaPoint.php:55
+msgid "Location"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:166
+#: src/Services/Model/Base/MetaDotLabel.php:63
+#: src/Services/Model/Base/MetaPoint.php:63 src/models/globe-dotlabel.php:148
+#: src/models/globe-line.php:183 src/models/globe-point.php:134
+msgid "Latitude"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:173
+#: src/Services/Model/Base/MetaDotLabel.php:69
+#: src/Services/Model/Base/MetaPoint.php:69 src/models/globe-dotlabel.php:155
+#: src/models/globe-line.php:188 src/models/globe-point.php:141
+msgid "Longitude"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:183
+#. translators: legend refers to a caption or visual element explaining colours
+#. on map
+msgid "Interactions & Controls"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:184
+msgid "Allow interactions with globe, like zoom and pan."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:189
+msgid "Zoom"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:194
+msgid "Pan & Rotate"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:201
+#. translators: legend refers to a caption or visual element explaining colours
+#. on map
+msgid "Animate In"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:202
+msgid "Animate globe on load"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:208
+msgid "Container"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:214
+msgid "Background Color"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:219
+msgid "Container Height"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:225
+msgid ""
+"The default 56% corresponds to a 16:9 aspect ratio. 100% would be a square. "
+"We use percentual values to make sure the map is responsive and calculates "
+"the height based on it's width."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:229
+msgid "Container Height on Mobile"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:235
+msgid ""
+"Leave blank to use the same value above. On mobile there might be the need "
+"for the globe container to take more vertical space. You can increase the "
+"map height here, to change its aspect ratio."
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:239
+msgid "Container Max-Width"
+msgstr ""
+
+#: src/Services/Model/Base/Meta.php:240
+msgid ""
+"Leave empty if you always want your globe to take 100% of the available "
+"space. Otherwise set a maximum pixel width for the globe."
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:21 src/models/globe-dotlabel.php:44
+#: src/models/globe-dotlabel.php:46 src/models/globe-dotlabel.php:47
+#: src/models/globe-dotlabel.php:58
+msgid "Dot Labels"
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:27
+msgid ""
+"Add <strong>text labels</strong> with dots to the globe. <br>Click \"Add "
+"New Label\" below to start adding labels."
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:40
+#: src/Services/Model/Base/MetaDotLabel.php:94
+msgid "Add New Label"
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:51
+#: src/Services/Model/Base/MetaPoint.php:51 src/models/globe-dotlabel.php:126
+#: src/models/globe-point.php:112
+msgid "Coordinates"
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:78
+#: src/Services/Model/Base/MetaPoint.php:78 src/models/globe-dotlabel.php:169
+#: src/models/globe-point.php:155 src/models/globe-region.php:193
+msgid "Tooltip Content"
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:82
+#: src/Services/Model/Base/MetaPoint.php:82 src/models/globe-dotlabel.php:173
+#: src/models/globe-point.php:159 src/models/globe-region.php:197
+msgid "Action Content"
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:83
+#: src/Services/Model/Base/MetaPoint.php:83 src/models/globe-dotlabel.php:174
+#: src/models/globe-point.php:160 src/models/globe-region.php:198
+msgid "URL or content to trigger when marker is clicked."
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:83
+#: src/Services/Model/Base/MetaPoint.php:83 src/models/globe-region.php:198
+msgid "Don't forget to select a click action below."
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:99
+#: src/Services/Model/Base/MetaPoint.php:99
+#: src/Services/Model/Pro/MetaRegions.php:64
+msgid "Default values"
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:163
+msgid "Font Typeface"
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:167
+msgid "Default (Helvetiker Regular)"
+msgstr ""
+
+#: src/Services/Model/Base/MetaDotLabel.php:168
+msgid "Open Sans Regular (125kb)"
+msgstr ""
+
+#: src/Services/Model/Base/MetaPoint.php:21 src/models/globe-point.php:29
+#: src/models/globe-point.php:31 src/models/globe-point.php:32
+#: src/models/globe-point.php:43
+msgid "Points"
+msgstr ""
+
+#: src/Services/Model/Base/MetaPoint.php:27
+msgid ""
+"Add <strong>cylinder point markers</strong> to the globe. <br>Click \"Add "
+"New Point\" below to start adding points."
+msgstr ""
+
+#: src/Services/Model/Base/MetaPoint.php:40
+#: src/Services/Model/Base/MetaPoint.php:94
+msgid "Add New Point"
+msgstr ""
+
+#: src/Services/Model/Base/Settings.php:16
+msgid "None"
+msgstr ""
+
+#: src/Services/Model/Base/Settings.php:17
+msgid "Open URL"
+msgstr ""
+
+#: src/Services/Model/Base/Settings.php:18
+msgid "Open URL (new tab)"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaColor.php:17
+msgid "Globe Custom Color"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaColor.php:24
+msgid "Select a custom image to be used in the globe."
+msgstr ""
+
+#: src/Services/Model/Pro/MetaColor.php:25
+msgid "Globe Custom Image"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaDotLabel.php:12
+msgid "PTSerif Regular (~130kb)"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:16
+msgid "Arc Lines"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:24
+msgid "Add New Line"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:29
+#: src/Services/Model/Pro/PluginSettings.php:61 src/models/globe-pro.php:90
+msgid "Defaults"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:33
+msgid "Arc Line Color"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:45 src/models/globe-line.php:222
+msgid "Line Dash"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:46 src/models/globe-line.php:223
+msgid ""
+"The length of the dashed segments in the arc, in terms of relative line "
+"length. (100 = full relative line length)"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:57 src/models/globe-line.php:235
+msgid "Line Dash Gap"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:58 src/models/globe-line.php:236
+msgid ""
+"The length of the gap between dash segments, in terms of relative line "
+"length. ( 0 = no gap, 0.1 = minimum gap, 100 = full relative line lenght )"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:63 src/models/globe-line.php:242
+msgid "Line Width"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:64 src/models/globe-line.php:243
+msgid "The line’s diameter, in angular degrees"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:76 src/models/globe-line.php:256
+msgid ""
+"The arc’s maximum altitude, ocurring at the half-way distance between the "
+"two points. (0 = 0 altitude (ground line), 100 = globe radius)"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:81 src/models/globe-line.php:268
+msgid ""
+"Time duration (in seconds) to animate the motion of dash positions from the "
+"start to the end Region for a full line length. A value of 0 disables the "
+"animation. Make sure the Dash Lenght is less than 100 to visualize the "
+"animation."
+msgstr ""
+
+#: src/Services/Model/Pro/MetaLines.php:87 src/models/globe-line.php:267
+msgid "Animation speed"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:19
+msgid "Regions Layer"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:25
+msgid "Load a layer with region/country shapes and add interactivity to them."
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:29
+msgid "Type"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:31
+msgid "Disabled"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:32
+msgid "Continents"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:33
+msgid "Countries"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:34
+msgid "Countries (Morocco)"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:35
+msgid "Countries (India)"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:36
+msgid "Countries (China)"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:37
+msgid "Countries (Russia)"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:38
+msgid "Outline"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:44
+msgid "Custom GEOJSON Url"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:49
+msgid ""
+"Click the \"Add New Region Interactivity\" button below to start adding "
+"interactivity to the regions. Use the correct region code."
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:59
+msgid "Add New Region Interactivity"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRegions.php:87
+msgid "Inactive Regions Color"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRotate.php:14
+#: src/Services/Model/Pro/MetaRotate.php:20 src/models/globe-pro.php:252
+#: src/models/globe-pro.php:258
+#. translators: legend refers to a caption or visual element explaining colours
+#. on map
+msgid "Auto Rotate"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRotate.php:15
+#: src/Services/Model/Pro/MetaRotate.php:21 src/models/globe-pro.php:253
+#: src/models/globe-pro.php:259
+msgid "Rotate animation"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaRotate.php:28 src/models/globe-pro.php:266
+msgid "Speed"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:12
+msgid "Tooltip"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:21
+msgid "Tooltip Settings"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:25
+msgid "Background color"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:30
+msgid "Font Family"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:35
+msgid "Font Settings"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:49
+msgid "Corner radius"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:56
+msgid "Border"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:70
+msgid "Padding"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:78
+msgid "Tooltip padding"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:82
+msgid "Maximum Width"
+msgstr ""
+
+#: src/Services/Model/Pro/MetaTooltip.php:86
+msgid "Leave it blank if you want the tooltip to calculate the size automatically."
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:13 src/models/globe-pro.php:45
+msgid "Plugin Settings"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:15 src/models/globe-pro.php:47
+msgid "Settings"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:21 src/models/globe-pro.php:50
+msgid "Editing"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:22 src/models/globe-pro.php:51
+msgid "Edit screen settings"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:27 src/models/globe-pro.php:56
+msgid "Use OpenStreeMap"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:28 src/models/globe-pro.php:57
+msgid ""
+"If you want to select the coordinates using a visual map with search "
+"features, you can enable this option. <br>It might slow down the editor "
+"screen a bit, but it could be very helpful. <br> It uses the free Nominatim "
+"Geolocation service, which might block you if you do too many requests with "
+"the search form. <a "
+"href=\"https://operations.osmfoundation.org/policies/nominatim/\" "
+"target=\"_blank\">Usage Policy</a>"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:34 src/models/globe-pro.php:63
+#. translators: field type = input type (textarea, rich text editor...)
+msgid "Tooltip field type"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:35
+#: src/Services/Model/Pro/PluginSettings.php:49 src/models/globe-pro.php:64
+#: src/models/globe-pro.php:78
+msgid ""
+"Type of field to use to edit the tooltip content. <br> When using the Rich "
+"Text Editor, if you have a lot of entries, you might come across the \"<a "
+"href='https://interactivegeomaps.com/docs/max-input-vars-issue/' "
+"target='_blank'>Too much data\" issue</a>."
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:38
+#: src/Services/Model/Pro/PluginSettings.php:52 src/models/globe-pro.php:67
+#: src/models/globe-pro.php:81
+msgid "Textarea"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:40
+#: src/Services/Model/Pro/PluginSettings.php:54 src/models/globe-pro.php:69
+#: src/models/globe-pro.php:83
+#. translators: equivalent to classic editor in a way
+msgid "WP Rich Text Editor"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:41
+#: src/Services/Model/Pro/PluginSettings.php:55 src/models/globe-pro.php:70
+#: src/models/globe-pro.php:84
+msgid "Text Input"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:48 src/models/globe-pro.php:77
+#. translators: field type = input type (textarea, rich text editor...)
+msgid "Action Content field type"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:67 src/models/globe-pro.php:96
+msgid "Default Active Colour"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:68 src/models/globe-pro.php:97
+msgid ""
+"Set the default colour for the active colour field, when you create new "
+"maps."
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:74 src/models/globe-pro.php:103
+msgid "Default Hover Colour"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:75 src/models/globe-pro.php:104
+msgid "Set the default colour for the hover colour field, when you create new maps."
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:81 src/models/globe-pro.php:110
+msgid "Capabilities"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:82 src/models/globe-pro.php:111
+msgid "Add custom styles to the pages loading the layouts."
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:87 src/models/globe-pro.php:116
+msgid "Capability Type"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:88 src/models/globe-pro.php:117
+msgid ""
+"Refer to the <code>capability_type</code> argument from the "
+"<code>register_post_type</code>. <a target=\"_blank\" "
+"href=\"https://developer.wordpress.org/reference/functions/register_post_"
+"type/#capability_type\">More information</a>."
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:94
+msgid "Expose Data Types"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:95
+msgid ""
+"If enabled, data types like points, dot labels, regions and others will "
+"display in the main menu and you can edit them as a custom post type entry."
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:100
+msgid "Globe single pages"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:101
+msgid ""
+"When enabled the globes will automatically have a single page where you can "
+"preview it."
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:106
+#. translators: field type = input type (textarea, rich text editor...)
+msgid "Enable"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:111
+msgid "slug"
+msgstr ""
+
+#: src/Services/Model/Pro/PluginSettings.php:112
+msgid ""
+"URL slug to use on single globe pages. You might need to resave your "
+"permalink settings in you get \"Page not found\" errors."
+msgstr ""
+
+#: src/models/globe-dotlabel.php:18
+msgid "Clone Dot Label"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:19
+msgid "Create a copy of this dot label"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:22
+msgid "Download Dot Labels Export File"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:45
+msgid "Dot Label"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:49
+msgid "Create New Dot Label"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:50 src/models/globe-line.php:53
+#: src/models/globe-point.php:35 src/models/globe-region.php:101
+msgid "Edit"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:51
+msgid "New Dot Label"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:52
+msgid "View Dot Label"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:53
+msgid "View Dot Labels"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:54
+msgid "Search Dot Labels"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:55
+msgid "No Dot Labels found."
+msgstr ""
+
+#: src/models/globe-dotlabel.php:56
+msgid "No Dot Labels found in Trash."
+msgstr ""
+
+#: src/models/globe-dotlabel.php:57 src/models/globe-line.php:60
+#: src/models/globe-point.php:42 src/models/globe-region.php:108
+msgid "Parent Globe:"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:59
+msgid "Dot Label Archives"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:60
+msgid "Dot Label Attributes"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:61
+msgid "Insert into Dot Label"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:62
+msgid "Uploaded to this Dot Label"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:63
+msgid "Filter Dot Label list"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:64
+msgid "Dot Label list navigation"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:65
+msgid "Dot Label list"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:66
+msgid "Dot Label Cover Image"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:67
+msgid "Set Dot Label Cover Image"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:68
+msgid "Remove Dot Label Cover"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:69
+msgid "Use as Dot Label Cover"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:73
+msgid ""
+"Dot Label information updated. <a href=\"{permalink}\" "
+"target=\"_blank\">View Globe</a>"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:74
+msgid "Dot Label info updated"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:77
+msgid "Dot Label content restored from revision"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:78
+msgid "Dot Label Published"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:79
+msgid "Dot Label information saved."
+msgstr ""
+
+#: src/models/globe-dotlabel.php:80
+msgid "Dot Label submitted. <a href=\"{preview_url}\" target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:81
+msgid ""
+"Dot Label scheduled for {date}. <a href=\"{preview_url}\" "
+"target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:82
+msgid ""
+"Dot Label draft updated. <a href=\"{preview_url}\" "
+"target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:85
+msgid "Dot Label updated. Yay!"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:86
+msgid "%s Dot Label updated. Yay!"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:87
+msgid "Dot Label not updated, somebody is editing it"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:88
+msgid "%s Dot Label not updated, somebody is editing them"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:89
+msgid "Dot Label permanetly deleted. Fahrenheit 451 team was here?"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:90
+msgid "%s Dot Label permanently deleted. Why? :("
+msgstr ""
+
+#: src/models/globe-dotlabel.php:91
+msgid "Dot Label moved to the trash. I'm sad :("
+msgstr ""
+
+#: src/models/globe-dotlabel.php:92
+msgid "%s Dot Label moved to the trash. Why? :("
+msgstr ""
+
+#: src/models/globe-dotlabel.php:93
+msgid "Dot Label recovered from trash. Well done!"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:94
+msgid "%s Dot Label saved from the enemies!"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:98
+msgid "Enter Dot Label name here"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:118 src/models/globe-line.php:123
+#: src/models/globe-point.php:103 src/models/globe-region.php:167
+msgid "Information"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:131 src/models/globe-line.php:166
+#: src/models/globe-point.php:117
+msgid "zoom"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:140 src/models/globe-line.php:175
+#: src/models/globe-point.php:126
+msgid "address"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:182
+msgid "Globe - Dot Label relationship"
+msgstr ""
+
+#: src/models/globe-dotlabel.php:191 src/models/globe-line.php:286
+#: src/models/globe-point.php:178 src/models/globe-region.php:247
+msgid "Associated Globe"
+msgstr ""
+
+#: src/models/globe-line.php:21
+msgid "Clone Line"
+msgstr ""
+
+#: src/models/globe-line.php:22
+msgid "Create a copy of this Line"
+msgstr ""
+
+#: src/models/globe-line.php:25
+msgid "Download Lines Export File"
+msgstr ""
+
+#: src/models/globe-line.php:47 src/models/globe-line.php:49
+#: src/models/globe-line.php:50 src/models/globe-line.php:61
+msgid "Lines"
+msgstr ""
+
+#: src/models/globe-line.php:48
+msgid "Line"
+msgstr ""
+
+#: src/models/globe-line.php:52
+msgid "Create New Line"
+msgstr ""
+
+#: src/models/globe-line.php:54
+msgid "New Line"
+msgstr ""
+
+#: src/models/globe-line.php:55
+msgid "View Line"
+msgstr ""
+
+#: src/models/globe-line.php:56
+msgid "View Lines"
+msgstr ""
+
+#: src/models/globe-line.php:57
+msgid "Search Lines"
+msgstr ""
+
+#: src/models/globe-line.php:58
+msgid "No Lines found."
+msgstr ""
+
+#: src/models/globe-line.php:59
+msgid "No Lines found in Trash."
+msgstr ""
+
+#: src/models/globe-line.php:62
+msgid "Line Archives"
+msgstr ""
+
+#: src/models/globe-line.php:63
+msgid "Line Attributes"
+msgstr ""
+
+#: src/models/globe-line.php:64
+msgid "Insert into Line"
+msgstr ""
+
+#: src/models/globe-line.php:65
+msgid "Uploaded to this Line"
+msgstr ""
+
+#: src/models/globe-line.php:66
+msgid "Featured Image"
+msgstr ""
+
+#: src/models/globe-line.php:67
+msgid "Set featured image"
+msgstr ""
+
+#: src/models/globe-line.php:68
+msgid "Remove featured image"
+msgstr ""
+
+#: src/models/globe-line.php:69
+msgid "Use featured image"
+msgstr ""
+
+#: src/models/globe-line.php:70
+msgid "Filter Line list"
+msgstr ""
+
+#: src/models/globe-line.php:71
+msgid "Line list navigation"
+msgstr ""
+
+#: src/models/globe-line.php:72
+msgid "Line list"
+msgstr ""
+
+#: src/models/globe-line.php:73
+msgid "Line Cover Image"
+msgstr ""
+
+#: src/models/globe-line.php:74
+msgid "Set Line Cover Image"
+msgstr ""
+
+#: src/models/globe-line.php:75
+msgid "Remove Line Cover"
+msgstr ""
+
+#: src/models/globe-line.php:76
+msgid "Use as Line Cover"
+msgstr ""
+
+#: src/models/globe-line.php:80
+msgid ""
+"Line information updated. <a href=\"{permalink}\" target=\"_blank\">View "
+"Globe</a>"
+msgstr ""
+
+#: src/models/globe-line.php:81
+msgid "Line info updated"
+msgstr ""
+
+#: src/models/globe-line.php:84
+msgid "Line content restored from revision"
+msgstr ""
+
+#: src/models/globe-line.php:85
+msgid "Line Published"
+msgstr ""
+
+#: src/models/globe-line.php:86
+msgid "Line information saved."
+msgstr ""
+
+#: src/models/globe-line.php:87
+msgid "Line submitted. <a href=\"{preview_url}\" target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-line.php:88
+msgid ""
+"Line scheduled for {date}. <a href=\"{preview_url}\" "
+"target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-line.php:89
+msgid "Line draft updated. <a href=\"{preview_url}\" target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-line.php:92
+msgid "Line updated. Yay!"
+msgstr ""
+
+#: src/models/globe-line.php:93
+msgid "%s Line updated. Yay!"
+msgstr ""
+
+#: src/models/globe-line.php:94
+msgid "Line not updated, somebody is editing it"
+msgstr ""
+
+#: src/models/globe-line.php:95
+msgid "%s Line not updated, somebody is editing them"
+msgstr ""
+
+#: src/models/globe-line.php:96
+msgid "Line permanetly deleted. Fahrenheit 451 team was here?"
+msgstr ""
+
+#: src/models/globe-line.php:97
+msgid "%s Line permanently deleted. Why? :("
+msgstr ""
+
+#: src/models/globe-line.php:98
+msgid "Line moved to the trash. I'm sad :("
+msgstr ""
+
+#: src/models/globe-line.php:99
+msgid "%s Line moved to the trash. Why? :("
+msgstr ""
+
+#: src/models/globe-line.php:100
+msgid "Line recovered from trash. Well done!"
+msgstr ""
+
+#: src/models/globe-line.php:101
+msgid "%s Line saved from the enemies!"
+msgstr ""
+
+#: src/models/globe-line.php:105
+msgid "Enter Line name here"
+msgstr ""
+
+#: src/models/globe-line.php:133 src/models/globe-region.php:174
+msgid "Details."
+msgstr ""
+
+#: src/models/globe-line.php:139
+msgid "Add More End Points"
+msgstr ""
+
+#: src/models/globe-line.php:140
+msgid "Lines to Connect"
+msgstr ""
+
+#: src/models/globe-line.php:162
+msgid "Line Info"
+msgstr ""
+
+#: src/models/globe-line.php:209
+msgid "Line Color"
+msgstr ""
+
+#: src/models/globe-line.php:277 src/models/globe-point.php:169
+#: src/models/globe-region.php:238
+msgid "Globe rel"
+msgstr ""
+
+#: src/models/globe-point.php:30
+msgid "Point"
+msgstr ""
+
+#: src/models/globe-point.php:34
+msgid "Create New Point"
+msgstr ""
+
+#: src/models/globe-point.php:36
+msgid "New Point"
+msgstr ""
+
+#: src/models/globe-point.php:37
+msgid "View Point"
+msgstr ""
+
+#: src/models/globe-point.php:38
+msgid "View Points"
+msgstr ""
+
+#: src/models/globe-point.php:39
+msgid "Search Points"
+msgstr ""
+
+#: src/models/globe-point.php:40
+msgid "No Points found."
+msgstr ""
+
+#: src/models/globe-point.php:41
+msgid "No Points found in Trash."
+msgstr ""
+
+#: src/models/globe-point.php:44
+msgid "Point Archives"
+msgstr ""
+
+#: src/models/globe-point.php:45
+msgid "Point Attributes"
+msgstr ""
+
+#: src/models/globe-point.php:46
+msgid "Insert into Point"
+msgstr ""
+
+#: src/models/globe-point.php:47
+msgid "Uploaded to this Point"
+msgstr ""
+
+#: src/models/globe-point.php:48
+msgid "Filter Point list"
+msgstr ""
+
+#: src/models/globe-point.php:49
+msgid "Point list navigation"
+msgstr ""
+
+#: src/models/globe-point.php:50
+msgid "Point list"
+msgstr ""
+
+#: src/models/globe-point.php:51
+msgid "Point Cover Image"
+msgstr ""
+
+#: src/models/globe-point.php:52
+msgid "Set Point Cover Image"
+msgstr ""
+
+#: src/models/globe-point.php:53
+msgid "Remove Point Cover"
+msgstr ""
+
+#: src/models/globe-point.php:54
+msgid "Use as Point Cover"
+msgstr ""
+
+#: src/models/globe-point.php:58
+msgid ""
+"Point information updated. <a href=\"{permalink}\" target=\"_blank\">View "
+"Globe</a>"
+msgstr ""
+
+#: src/models/globe-point.php:59
+msgid "Point info updated"
+msgstr ""
+
+#: src/models/globe-point.php:62
+msgid "Point content restored from revision"
+msgstr ""
+
+#: src/models/globe-point.php:63
+msgid "Point Published"
+msgstr ""
+
+#: src/models/globe-point.php:64
+msgid "Point information saved."
+msgstr ""
+
+#: src/models/globe-point.php:65
+msgid "Point submitted. <a href=\"{preview_url}\" target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-point.php:66
+msgid ""
+"Point scheduled for {date}. <a href=\"{preview_url}\" "
+"target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-point.php:67
+msgid "Point draft updated. <a href=\"{preview_url}\" target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-point.php:70
+msgid "Point updated. Yay!"
+msgstr ""
+
+#: src/models/globe-point.php:71
+msgid "%s Point updated. Yay!"
+msgstr ""
+
+#: src/models/globe-point.php:72
+msgid "Point not updated, somebody is editing it"
+msgstr ""
+
+#: src/models/globe-point.php:73
+msgid "%s Point not updated, somebody is editing them"
+msgstr ""
+
+#: src/models/globe-point.php:74
+msgid "Point permanetly deleted. Fahrenheit 451 team was here?"
+msgstr ""
+
+#: src/models/globe-point.php:75
+msgid "%s Point permanently deleted. Why? :("
+msgstr ""
+
+#: src/models/globe-point.php:76
+msgid "Point moved to the trash. I'm sad :("
+msgstr ""
+
+#: src/models/globe-point.php:77
+msgid "%s Point moved to the trash. Why? :("
+msgstr ""
+
+#: src/models/globe-point.php:78
+msgid "Point recovered from trash. Well done!"
+msgstr ""
+
+#: src/models/globe-point.php:79
+msgid "%s Point saved from the enemies!"
+msgstr ""
+
+#: src/models/globe-point.php:83
+msgid "Enter Point name here"
+msgstr ""
+
+#: src/models/globe-pro.php:18
+msgid "Clone Globe"
+msgstr ""
+
+#: src/models/globe-pro.php:19
+msgid "Create a copy of this globe"
+msgstr ""
+
+#: src/models/globe-pro.php:129
+msgid "Use default"
+msgstr ""
+
+#: src/models/globe-pro.php:137 src/models/globe-pro.php:183
+msgid "Use defaults"
+msgstr ""
+
+#: src/models/globe-pro.php:138 src/models/globe-pro.php:184
+msgid "Use default colors and actions."
+msgstr ""
+
+#: src/models/globe-region.php:69
+msgid "Clone Region"
+msgstr ""
+
+#: src/models/globe-region.php:70
+msgid "Create a copy of this Region"
+msgstr ""
+
+#: src/models/globe-region.php:73
+msgid "Download Regions Export File"
+msgstr ""
+
+#: src/models/globe-region.php:95 src/models/globe-region.php:97
+#: src/models/globe-region.php:98 src/models/globe-region.php:109
+msgid "Regions"
+msgstr ""
+
+#: src/models/globe-region.php:96
+msgid "Region"
+msgstr ""
+
+#: src/models/globe-region.php:100
+msgid "Create New Region"
+msgstr ""
+
+#: src/models/globe-region.php:102
+msgid "New Region"
+msgstr ""
+
+#: src/models/globe-region.php:103
+msgid "View Region"
+msgstr ""
+
+#: src/models/globe-region.php:104
+msgid "View Regions"
+msgstr ""
+
+#: src/models/globe-region.php:105
+msgid "Search Regions"
+msgstr ""
+
+#: src/models/globe-region.php:106
+msgid "No Regions found."
+msgstr ""
+
+#: src/models/globe-region.php:107
+msgid "No Regions found in Trash."
+msgstr ""
+
+#: src/models/globe-region.php:110
+msgid "Region Archives"
+msgstr ""
+
+#: src/models/globe-region.php:111
+msgid "Region Attributes"
+msgstr ""
+
+#: src/models/globe-region.php:112
+msgid "Insert into Region"
+msgstr ""
+
+#: src/models/globe-region.php:113
+msgid "Uploaded to this Region"
+msgstr ""
+
+#: src/models/globe-region.php:114
+msgid "Filter Region list"
+msgstr ""
+
+#: src/models/globe-region.php:115
+msgid "Region list navigation"
+msgstr ""
+
+#: src/models/globe-region.php:116
+msgid "Region list"
+msgstr ""
+
+#: src/models/globe-region.php:117
+msgid "Region Cover Image"
+msgstr ""
+
+#: src/models/globe-region.php:118
+msgid "Set Region Cover Image"
+msgstr ""
+
+#: src/models/globe-region.php:119
+msgid "Remove Region Cover"
+msgstr ""
+
+#: src/models/globe-region.php:120
+msgid "Use as Region Cover"
+msgstr ""
+
+#: src/models/globe-region.php:124
+msgid ""
+"Region information updated. <a href=\"{permalink}\" target=\"_blank\">View "
+"Globe</a>"
+msgstr ""
+
+#: src/models/globe-region.php:125
+msgid "Region info updated"
+msgstr ""
+
+#: src/models/globe-region.php:128
+msgid "Region content restored from revision"
+msgstr ""
+
+#: src/models/globe-region.php:129
+msgid "Region Published"
+msgstr ""
+
+#: src/models/globe-region.php:130
+msgid "Region information saved."
+msgstr ""
+
+#: src/models/globe-region.php:131
+msgid "Region submitted. <a href=\"{preview_url}\" target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-region.php:132
+msgid ""
+"Region scheduled for {date}. <a href=\"{preview_url}\" "
+"target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-region.php:133
+msgid ""
+"Region draft updated. <a href=\"{preview_url}\" "
+"target=\"_blank\">Preview</a>"
+msgstr ""
+
+#: src/models/globe-region.php:136
+msgid "Region updated. Yay!"
+msgstr ""
+
+#: src/models/globe-region.php:137
+msgid "%s Region updated. Yay!"
+msgstr ""
+
+#: src/models/globe-region.php:138
+msgid "Region not updated, somebody is editing it"
+msgstr ""
+
+#: src/models/globe-region.php:139
+msgid "%s Region not updated, somebody is editing them"
+msgstr ""
+
+#: src/models/globe-region.php:140
+msgid "Region permanetly deleted. Fahrenheit 451 team was here?"
+msgstr ""
+
+#: src/models/globe-region.php:141
+msgid "%s Region permanently deleted. Why? :("
+msgstr ""
+
+#: src/models/globe-region.php:142
+msgid "Region moved to the trash. I'm sad :("
+msgstr ""
+
+#: src/models/globe-region.php:143
+msgid "%s Region moved to the trash. Why? :("
+msgstr ""
+
+#: src/models/globe-region.php:144
+msgid "Region recovered from trash. Well done!"
+msgstr ""
+
+#: src/models/globe-region.php:145
+msgid "%s Region saved from the enemies!"
+msgstr ""
+
+#: src/models/globe-region.php:149
+msgid "Enter Region name here"
+msgstr ""
+
+#: src/models/globe-region.php:181
+msgid "Select a region"
+msgstr ""
+
+#: src/models/globe-region.php:182
+msgid "Region Code *"
+msgstr ""
+
+#: src/models/globe-region.php:185
+msgid "Fetching regions from: "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Interactive Globes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpinteractiveglobes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create interactive geographic globes. Color full regions or create markers "
+"on specific locations that will have information on hover and can also have "
+"actions on click. This plugin uses the online globe.gl library to generate "
+"the maps."
+msgstr ""
